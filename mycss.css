@@ -1,0 +1,13 @@
+#main{
+	height: 60px;
+	width: 350px;
+	font-size: 22px;
+	color: #444D5B;
+	background-color: #00FF3A;
+}
+#main:focus{
+	background-color: #00FF3A;
+	color: #444D5B;
+	font-size: 22px;
+	border-bottom: 3px solid red;
+}
